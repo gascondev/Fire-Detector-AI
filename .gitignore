@@ -1,3 +1,5 @@
+.DS_Store
+.vscode
 .env
 proyecto_yolov8.py
 prueba.py
