@@ -9,3 +9,7 @@ fire_alert.mp4
 fall_YOLOv8.pt
 detected_fire.jpg
 detección.jpg
+fire_detector_test.py
+firecascade.xml
+haarcascade_fullbody.xml
+haarcascade.xml
